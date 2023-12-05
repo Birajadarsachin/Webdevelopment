@@ -50,6 +50,46 @@
                 <li>Javascript</li>
                 <li>SQL</li>
             </ul>
+
+
+            <h1>Frequently asked questions</h1>
+            <details>
+            <summary>
+                What's your name?
+            </summary>
+            <p>
+                My name is Sachin.
+            </p>
+            </details>
+
+            <details>
+                <summary>
+                    Where are you from?
+                </summary>
+                <p>
+                    Basavakalyan, a town from north karnataka.
+                </p>
+            </details>
+
+            <details>
+                    <summary>
+                        what you like to do in freee time?
+                    </summary>
+                    <p>
+                        I love playing football and also I do watch football.
+                    </p>
+            </details>
+
+
+
+            <details>
+                        <summary>
+                            How are learning web development?
+                        </summary>
+                        <p>
+                            I am learning web development mostly from youtube.
+                        </p>
+            </details>
         </section>
 
     </div>
