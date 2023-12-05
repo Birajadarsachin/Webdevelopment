@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <section>
+            <h1>Birajdar Sachin</h1>
+            <p>Contact:<a href="abcd.com">birajadarsachin31@gmail.com</a></p>
+            <p>Linkedin:<a href="abcd.com">linkedin/in/sachin birajdar</a></p>
+            <p>Github:<a href="abcd.com">github.com/sachin birajdar</a></p>
+        </section>
+
+        <table>
+            <tr>
+                <td>
+                    <img src="WIN_20230404_12_24_27_Pro.jpg" width="300" length="500" alt="sachin birajdar">
+                </td>
+                <td>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed deleniti ipsum dolore? Quidem a natus rerum. Provident, numquam voluptatum voluptate quaerat, animi possimus excepturi aliquam nobis, ducimus laboriosam pariatur minima.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, animi nam. Modi aperiam animi velit quaerat, fugit nulla at dolor ab alias totam nesciunt! Quibusdam qui fugit enim quia ipsa.
+                </td>
+            </tr>
+        </table>
+
+        <section>
+
+            <h1>Education</h1>
+            <ul>
+                <li>Ramaiah Institute of Technology, Bangalore</li>
+                <li>Sathya Sai High School, Bangalore</li>
+            </ul>
+
+            <h1>Hobbies</h1>
+            <ul>
+                <li>Playing and watching football</li>
+                <li>playing cricket</li>
+                <li>watching movies and webserieses on ott</li>
+            </ul>
+
+            <h1>Skills</h1>
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+
+    </div>
+</body>
+</html>
